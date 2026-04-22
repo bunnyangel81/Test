@@ -1,3 +1,0 @@
-# Placeholder for future code
-
-This file will eventually contain code related to the project.
